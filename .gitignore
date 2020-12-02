@@ -1,0 +1,9 @@
+tags
+*~
+*.swp
+undofiles/*
+projects/*
+.netrwhist
+bundle/*
+spell/*.add*
+swapfiles/*
