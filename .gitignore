@@ -4,6 +4,6 @@ tags
 undofiles/*
 projects/*
 .netrwhist
-bundle/*
+plugged/*
 spell/*.add*
 swapfiles/*
