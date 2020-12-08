@@ -1,9 +1,11 @@
 tags
 *~
 *.swp
-undofiles/*
+undo/*
 projects/*
 .netrwhist
 pack/*
 spell/*.add*
 swapfiles/*
+backup/*
+swp/*
